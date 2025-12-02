@@ -1,3 +1,7 @@
+/* Zarovnání členů týmu na střed */
+.team .container > .row {
+  justify-content: center;
+}
 /**
 * Template Name: FlexStart
 * Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
@@ -7,7 +11,7 @@
 */
 
 /*--------------------------------------------------------------
-# Font & Color Variables
+# Font & section-titleor Variables
 # Help: https://bootstrapmade.com/color-system/
 --------------------------------------------------------------*/
 /* Fonts */
