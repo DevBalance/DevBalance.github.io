@@ -525,6 +525,9 @@ footer a:hover {
   object-fit: cover;
   border-radius: 12px;
 }
+.team-grid > article > img[alt="Roman Kalous"] {
+  object-position: center top;
+}
 .team-title {
   display: flex;
   align-items: center;
