@@ -1,0 +1,183 @@
+{
+  "hero": [
+    {
+      "text": "Jsme analytické a vývojářské studio. Navrhujeme řešení, která odpovídají konkrétní situaci – od nových procesů, přes aplikace až po vhledy z dat. Věříme v jednoduchost, experimenty i hlubší strategii. Naším cílem je rovnováha mezi pohybem vpřed a stabilitou toho, co už funguje.",
+      "english": "We are a studio combining analytics and software development. We design solutions tailored to your specific situation – from new processes to custom apps and data insights. We believe in simplicity, experimentation, and deeper strategy. Our goal is to balance forward motion with the stability of what already works."
+    }
+  ],
+  "services": [
+    {
+      "title": "Poznejte a využijte svá data",
+      "english": "Discover and utilize your data",
+      "paragraphs": [
+        {
+          "text": "Pomůžeme vám najít informace ve vašich datech pomocí analýz, strojového učení a AI",
+          "english": "We help you discover and use insights hidden in your data – through analytics, machine learning, and AI"
+        }
+      ]
+    },
+    {
+      "title": "Aplikace pro vaše procesy",
+      "english": "Apps for your processes",
+      "paragraphs": [
+        {
+          "text": "Navrhneme a vytvoříme jednoduché aplikace přesně pro to, co potřebujete.",
+          "english": "We design and build simple apps tailored to your unique business processes."
+        }
+      ]
+    },
+    {
+      "title": "Microsoft 365 na maximum",
+      "english": "Get the most out of Microsoft 365",
+      "paragraphs": [
+        {
+          "text": "Ukážeme vám, jak naplno využít Power Automate, SharePoint, Copilot.",
+          "english": "We help you get the most out of Power Automate, SharePoint, or Copilot."
+        }
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "Timesheet App",
+      "image": "assets/img/portfolio/devbal-ts-app-screenshot.png",
+      "category": "apps",
+      "paragraphs": [
+        {
+          "text": "Appka pro nadiktování vašich timesheetů. Nadiktujete a appka zapíše do ERP data :)",
+          "english": "App that lets you dictate your timesheets. You dictate and the app writes the data into the ERP :)"
+        }
+      ]
+    },
+    {
+      "title": "AI chatbot",
+      "image": "assets/img/portfolio/devbal-ai-chatbot-1.png",
+      "category": "apps",
+      "paragraphs": [
+        {
+          "text": "Orientace ve stovkách a tisících dokumentů. Chatujte nad obsahem ve vaší knihovně dokumentů / knowledge base.",
+          "english": "Navigate through hundreds and thousands of documents. Chat about the content in your document library / knowledge base."
+        }
+      ]
+    },
+    {
+      "title": "Power Automate pro zpracování e-mailů",
+      "image": "assets/img/portfolio/devbal-power-automate.png",
+      "category": "consulting",
+      "paragraphs": [
+        {
+          "text": "Power Automate flow pro vyhodnocení požadovaných příloh, automatizace pracovního postupu.",
+          "english": "Automate email processing, evaluate required attachments and streamline workflows."
+        }
+      ]
+    },
+    {
+      "title": "Workshop pro adopci Microsoft 365",
+      "image": "assets/img/portfolio/devbal-onedrive.png",
+      "category": "lectures",
+      "paragraphs": [
+        {
+          "text": "Strategie pro adopci Microsoft 365 + workshop pro názorné vyzkoušení M365 Apps",
+          "english": "Strategy for Microsoft 365 adoption, followed by hands-on workshop with M365 Apps"
+        }
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Tomáš Martinek",
+      "role": "Projektový manažer, Šmídl Provozní Holding s.r.o.",
+      "image": "assets/img/testimonials/Tomas-Martinek-SMIDL.jpg",
+      "paragraphs": [
+        {
+          "text": "Spolupráce s Romanem nám přinesla jasně definovanou strukturu Teams odpovídající naší organizaci, návrh Copilot Agentů pro práci s interními dokumenty a automatizaci účetních procesů pomocí Power Automate. Díky tomu jsme udělali velký krok k efektivnějšímu využívání Microsoft 365 v praxi.",
+          "english": "Our cooperation with Roman has brought us a clearly defined Teams structure corresponding to our organization, the design of Copilot Agents for working with internal documents, and the automation of accounting processes using Power Automate. As a result, we have made significant progress towards more efficient use of Microsoft 365 in practice."
+        }
+      ]
+    },
+    {
+      "name": "Václav Čepelák",
+      "role": "Senior manager, BDO Legal",
+      "image": "assets/img/testimonials/Vaclav-Cepelak-BDO.jpg",
+      "paragraphs": [
+        {
+          "text": "Díky spolupráci s Jakubem a Romanem a nasazení AI Chatbota můžeme nyní účinně hledat v databázi rozsudků, interpretovat nalezené texty a efektivně je využít v praxi.",
+          "english": "Thanks to the collaboration with Jakub and Roman and the use of the AI Chatbot, we can now effectively search the database of judgments, interpret the found texts, and use them efficiently in practice."
+        }
+      ]
+    },
+    {
+      "name": "Miroslav Prokeš",
+      "role": "Výkonný ředitel Agora Plus a.s.",
+      "image": "assets/img/testimonials/Miroslav-Prokes-AGORAPLUS.jpg",
+      "paragraphs": [
+        {
+          "text": "Aplikace pro diktování pracovních záznamů funguje a pomáhá našemu IT týmu rychle zaznamenat provedené práce hned, jak jsou dokončeny. Provedené úkony nezapadnou, máme přesné a kvalitní podklady pro fakturaci.",
+          "english": "Application for dictating timesheet records works well and helps our IT team to quickly record completed work as soon as it is done. As a result, we have accurate and quality documentation for invoicing."
+        }
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "Roman Kalous",
+      "role": "Znalec, konzultant, lektor",
+      "image": "assets/img/team/Roman-4-2025.jpg",
+      "linkedin": "https://www.linkedin.com/in/romankalous/",
+      "paragraphs": [
+        {
+          "text": "Roman s vámi projde vaše konkrétní problémy nebo nápady pro zlepšení vašich procesů. Zjistíte, jaké aplikace nebo nástroje můžete použít, jaká je správná cena.",
+          "english": ""
+        },
+        {
+          "text": "Konkrétní use-cases:",
+          "english": ""
+        },
+        {
+          "text": "Strategie pro adopci M365 | Příprava dokumentů pro AI agenty | Appka pro samostatnou kategorizaci dokumentů |",
+          "english": ""
+        }
+      ]
+    },
+    {
+      "name": "Jakub Sukdol",
+      "role": "AI Engineer",
+      "image": "assets/img/team/Jakub-6-2025.jpg",
+      "linkedin": "https://www.linkedin.com/in/jakub-sukdol/",
+      "paragraphs": [
+        {
+          "text": "Jakub pro vás perfektně projde vaše procesy a data, dokáže připravit základní i velmi vyspělé ML modely. Můžete zavést nové procesy a appky a ulevit svým zaměstnancům a firmě.",
+          "english": ""
+        },
+        {
+          "text": "Konkrétní use-cases:",
+          "english": ""
+        },
+        {
+          "text": "Chatbot pro rozsáhlou knihovnu dokumentů | Tvorba Azure prostředí pro důvěrné zpracování dat a dokumentů | M365 Agent pro čtení a interpretaci zákonů | Konzultace k existujícím AI/ML řešením",
+          "english": ""
+        }
+      ]
+    },
+    {
+      "name": "Štěpán Marousek",
+      "role": "AI Engineer",
+      "image": "assets/img/team/Stepan-2026.jpg",
+      "linkedin": "https://www.linkedin.com/in/stepan-marousek/",
+      "paragraphs": [
+        {
+          "text": "Štěpán se specializuje na implementaci AI řešení, implementuje pro vás nástroj omniDoc. nebo konkrétní AI Agenty. Štěpán povede vaše IT kolegy tak, aby využili potenciál AI ve vaší firmě.",
+          "english": ""
+        },
+        {
+          "text": "Konkrétní use-cases:",
+          "english": ""
+        },
+        {
+          "text": "Analýza a implementace omniDoc.u u zákazníků | Spouštění lokálních LLM modelů pro vrcholnou důvěrnost zpracování dat | Tvorba admin rozhraní pro AI nástroje | Konzultace a podpora k existujícím AI/ML řešením",
+          "english": ""
+        }
+      ]
+    }
+  ]
+}
